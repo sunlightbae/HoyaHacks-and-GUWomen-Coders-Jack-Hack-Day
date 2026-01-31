@@ -1,0 +1,8 @@
+{
+  "name": "MLH - Serve DC",
+  "description": "A community-driven platform where DC neighbors help each other through pseudo-anonymous announcements for safety, urgent needs, and social impact. Features AI-powered categorization and location mapping through Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
